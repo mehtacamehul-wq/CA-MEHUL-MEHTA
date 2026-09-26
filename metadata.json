@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Vortex Institutional Equity Research Terminal \u0026 Macro Desk",
+  "description": "Institutional equity research platform merging real-time trade volume analytics with a global macroeconomic dashboard, AI-powered Moneycontrol \u0026 Zee Business news synthesis, algorithmic fundamental signals, and systematic investment forecasting for Indian \u0026 global equities. And include ai boat ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
